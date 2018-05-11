@@ -1,61 +1,61 @@
-<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.inegia.io" resolutions="1x" timestamp="1525893606856">
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://jalvaren.github.io" resolutions="1x" timestamp="1525914008638">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
     <file name="master_a-p_g_-maestra.css" crc="125751132" ref="index"/>
-    <file name="index.css" crc="4180897022" ref="index"/>
+    <file name="index.css" crc="3858291389" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="409338010" ref="index"/>
     <file name="museutils.js" crc="4190794036" ref="index"/>
     <file name="whatinput.js" crc="84559013" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3792042506" ref="index"/>
     <file name="jquery.watch.js" crc="349565855" ref="index"/>
     <file name="pie.js" crc="3827607177" ref="index"/>
     <file name="webpro.js" crc="488283310" ref="index"/>
     <file name="musewpslideshow.js" crc="248860441" ref="index"/>
     <file name="jquery.museoverlay.js" crc="3898476799" ref="index"/>
     <file name="touchswipe.js" crc="4191887251" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3792042506" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="3837774061" ref="index"/>
   </folder>
   <folder name="images">
     <file name="svg-pegado-399x150.svg" crc="494263471" ref="index"/>
     <file name="svg pegado 399x150_poster_.png" crc="248417285" ref="index"/>
-    <file name="shutterstock_374127247.jpg" crc="527470096" ref="index"/>
     <file name="ingenia foto2.jpg" crc="528305494" seo="true" ref="index"/>
     <file name="ingenia foto.jpg" crc="3966827081" seo="true" ref="index"/>
-    <file name="svg-pegado-78291x78.svg" crc="4244067458" ref="index"/>
-    <file name="svg pegado 78291x78_poster_.png" crc="266400735" ref="index"/>
     <file name="foco-iluminacion-luz-fotorecurso.png" crc="3787056322" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="svg-pegado-78291x782.svg" crc="4032771029" ref="index"/>
-    <file name="svg pegado 78291x78_poster_2.png" crc="136609025" ref="index"/>
-    <file name="svg-pegado-78291x783.svg" crc="3929452516" ref="index"/>
-    <file name="svg pegado 78291x78_poster_3.png" crc="133182822" ref="index"/>
+    <file name="svg-pegado-78291x78.svg" crc="4032771029" ref="index"/>
+    <file name="svg pegado 78291x78_poster_.png" crc="136609025" ref="index"/>
+    <file name="svg-pegado-78291x782.svg" crc="3929452516" ref="index"/>
+    <file name="svg pegado 78291x78_poster_2.png" crc="133182822" ref="index"/>
     <file name="u4501-grad.png" crc="3911264743" ref="index"/>
     <file name="svg-pegado-68154x61.svg" crc="376464321" ref="index"/>
     <file name="svg pegado 68154x61_poster_.png" crc="225589028" ref="index"/>
-    <file name="svg-pegado-78291x784.svg" crc="287043563" ref="index"/>
-    <file name="svg pegado 78291x78_poster_4.png" crc="4221489126" ref="index"/>
-    <file name="svg-pegado-78291x785.svg" crc="192016397" ref="index"/>
-    <file name="svg pegado 78291x78_poster_5.png" crc="142026857" ref="index"/>
+    <file name="svg-pegado-78291x783.svg" crc="287043563" ref="index"/>
+    <file name="svg pegado 78291x78_poster_3.png" crc="4221489126" ref="index"/>
+    <file name="svg-pegado-78291x784.svg" crc="192016397" ref="index"/>
+    <file name="svg pegado 78291x78_poster_4.png" crc="142026857" ref="index"/>
     <file name="u4840-grad.png" crc="3956310662" ref="index"/>
     <file name="svg-pegado-48896x66.svg" crc="4093066069" ref="index"/>
     <file name="svg pegado 48896x66_poster_.png" crc="4248048048" ref="index"/>
+    <file name="svg-pegado-78291x785.svg" crc="4244067458" ref="index"/>
+    <file name="svg pegado 78291x78_poster_5.png" crc="266400735" ref="index"/>
     <file name="svg-pegado-78291x786.svg" crc="4115175405" ref="index"/>
     <file name="svg pegado 78291x78_poster_6.png" crc="3823881816" ref="index"/>
     <file name="svg-pegado-51759x73.svg" crc="4077191281" ref="index"/>
     <file name="svg pegado 51759x73_poster_.png" crc="4287183322" ref="index"/>
-    <file name="svg-pegado-89407x89.svg" crc="192872894" ref="index"/>
-    <file name="svg pegado 89407x89_poster_.png" crc="3931248395" ref="index"/>
+    <file name="shutterstock_374127247.jpg" crc="527470096" ref="index"/>
     <file name="svg-pegado-68408x68.svg" crc="3815062223" ref="index"/>
     <file name="svg pegado 68408x68_poster_.png" crc="4146334038" ref="index"/>
     <file name="svg-pegado-68408x682.svg" crc="4046190049" ref="index"/>
     <file name="svg pegado 68408x68_poster_2.png" crc="4086980613" ref="index"/>
     <file name="svg-pegado-68408x683.svg" crc="507771484" ref="index"/>
     <file name="svg pegado 68408x68_poster_3.png" crc="3885192392" ref="index"/>
+    <file name="svg-pegado-89407x89.svg" crc="192872894" ref="index"/>
+    <file name="svg pegado 89407x89_poster_.png" crc="3931248395" ref="index"/>
     <file name="svg-pegado-82712x82.svg" crc="4056844450" ref="index"/>
     <file name="svg pegado 82712x82_poster_.png" crc="184154326" ref="index"/>
     <file name="encabezado_ingenia.jpg" crc="4089276562" ref="index"/>
   </folder>
-  <file name="index.html" crc="421753931" seo="true" mt="1525893604520" redirect="true"/>
+  <file name="index.html" crc="440663737" seo="true" mt="1525914006836" redirect="true"/>
 </manifest>
